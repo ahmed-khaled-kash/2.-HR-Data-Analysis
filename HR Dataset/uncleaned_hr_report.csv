@@ -1,0 +1,201 @@
+Employee ID,Full Name,Gender,Date of Birth,Date of Hire,Job Title,Department,Annual Salary,Status,Performance Rating,Years at Company,Location,Email,Phone Number,Last Promotion Date,Supervisor
+EMP0001,allison hill,Male,02/26/1980,2022/01/13,Analyst,Finance,63401.38,On Leave,Poor,14.8,Los Angeles,leonardthomas@hotmail.com,926.142.9396,2023-12-02,Teresa Adkins
+,Noah Rhodes,F,03/13/1996,2021/05/07,Data Analyst,HR,125520.97,On Leave,Excellent,17.3,Los Angeles,deborahreid@yahoo.com,+1-856-218-5016x31599,2020-03-25,Joanna Jackson
+EMP0003,Angie Henderson,U,14-03-1997,2022/08/23,HR Manager,finance,125940.28,On Leave,Excellent,14.8,Cairo,cwilson@gmail.com,+1-650-477-3586x629,2024-02-06,Beth Young
+EMP0004,Daniel Wagner,Male,04/19/1994,2024/09/07,Engineer,HR,73895.16,On Leave,average,11.2,Tanta,pwilson@hotmail.com,86595-xxx,2020-12-27,Patrick Brady
+EMP0005,Cristian Santos,F,12/21/1964,2020/02/12,Data Analyst,Sales,43674.6,Terminated,Needs Improvement,,Cairo,qchavez@horton.com,(194)311-4262x6551,2022-03-12,James Davis
+EMP0006,Connie Lawrence,M,02/17/1970,2024/09/11,HR,Sales,88738.08,Terminated,Good,15.7,Los Angeles,basschristina@yahoo.com,047-541-2126,2020-07-28,Kara Brown
+EMP0007,Abigail Shaffer,Female,10/28/1983,,HR,Finance,67608.49,Active,Good,16.0,Cairo,jeff73@garcia-jennings.net,888.610.1581x995,,Kelly Ferrell
+EMP0008,Gina Moore,U,11/17/1978,2020/10/16,Engineer,Finance,77105.28,Terminated,good,5.8,Los Angeles,sandersjames@gmail.com,(046)618-3982x6224,2023-04-03,Luke Miller
+EMP0009,Gabrielle Davis,U,04/27/1991,2021/11/29,HR Manager,HR,72238.19,Active,Good,13.3,Giza,batesdarlene@hotmail.com,472-126-4647x1543,2021-11-15,Jean Perez
+,ryan munoz,Female,10-05-1980,2020/12/18,HR Manager,ENG,50703.3,Active,average,18.5,Tanta,buchananjohn@buchanan.com,001-799-371-2406x5965,2021-12-15,Jessica Martinez
+EMP0011,Monica Herrera,M,20-08-1984,2023/12/04,HR Manager,HR,126073.61,On Leave,Excellent,7.8,San Francisco,lisahall@kramer.com,569.245.9375x265,2022-09-07,Carolyn Johnson
+EMP0012,Jamie Arnold,F,11/29/1988,2020/12/30,Analyst,Sales,100820.2,Active,Good,19.1,Tanta,vanessafernandez@gmail.com,793-564-6519x3982,2023-07-05,Thomas Lin
+,Lisa Hensley,Female,01/02/1996,,,HR,67582.29,Terminated,good,19.5,Cairo,andersonmichael@chapman.com,+1-807-374-1672x43426,2023-01-02,Seth Donovan
+EMP0014,Michele Williams,F,06/18/2001,2024/03/28,Data Analyst,finance,44033.87,Terminated,average,6.3,,martinezrobert@gmail.com,(179)796-8868x0589,2024-05-23,Brandy Fry
+EMP0015,dylan miller,F,12/06/1999,2022/06/25,HR Manager,ENG,46963.03,Active,Poor,11.0,Tanta,xwest@wheeler.org,+1-113-529-0965x6101,2024-07-22,Leslie Bryant
+EMP0016,brian ramirez,F,03/12/1987,2024/04/30,Data Scientist,Sales,101571.1,On Leave,average,0.3,San Francisco,stephen00@boone-simmons.com,388-899-3756x798,2020-01-31,Sherry Graham
+EMP0017,Holly Wood,M,10/02/1992,2022/04/29,HR Manager,Sales,80764.65,Active,average,5.0,Los Angeles,fjones@yahoo.com,(507)146-1125,2022-03-29,Kimberly Stout
+EMP0018,Derek Zuniga,M,04/02/2001,2023/07/14,HR Manager,HR,94485.51,,average,12.4,Cairo,martinezclaudia@kelley.net,573-875-7177x5140,2022-02-10,Mr. Brandon Parker
+EMP0019,Lisa Jackson,F,04/23/1986,2024/02/08,Engineer,Engineering,141683.39,Terminated,average,15.6,Cairo,bwagner@gmail.com,001-105-123-8282x586,2022-06-11,Christopher Smith
+,Carla Gray,Male,28-09-1987,07-01-2024,Accountant,IT,50023.86,Terminated,average,17.4,Tanta,russellbeasley@morgan-chavez.biz,362.266.0937x966,2020-10-15,Olivia Taylor
+EMP0021,margaret hawkins dds,U,09/04/1994,2022/01/27,Engineer,Sales,52451.83,On Leave,Excellent,16.6,Los Angeles,ronald45@mcdaniel.com,3341918255,2023-05-24,Joseph Watts
+EMP0022,Patty Perez,M,03/27/1982,2023/11/20,Data Scientist,Marketing,104329.2,Terminated,,18.2,Los Angeles,Christopher@davis.com,714.785.9696,2022-11-28,Pedro Evans DDS
+EMP0023,Ethan Adams,,08/31/1984,2024/09/08,Data Analyst,Marketing,144221.03,,good,14.1,Cairo,Lisa@brown.com,001-155-792-4991,2020-08-24,Linda Robles
+EMP0024,Tommy Walter,Male,27-11-1980,2021/03/25,Data Scientist,Sales,53415.42,Terminated,Good,13.0,Los Angeles,morgan60@yahoo.com,+1-251-341-2528x66929,2024-09-18,Chelsea Khan
+EMP0025,Matthew Foster,U,06/28/1979,,Accountant,IT,97389.85,Terminated,Poor,15.1,Giza,dale83@gmail.com,(627)828-2742x2579,2021-07-08,David Espinoza
+EMP0026,Judy Baker,F,01/04/1972,2021/08/15,Data Scientist,Engineering,79096.12,Terminated,Needs Improvement,10.9,Tanta,melaniebell@hotmail.com,5072368876,,sandra walker
+EMP0027,Justin Baker,Male,11/26/1976,2024/04/28,HR Manager,Sales,115217.08,Terminated,Excellent,12.1,Giza,farmeraudrey@yahoo.com,+1-767-721-9034x04384,2022-09-02,mario black
+EMP0028,Stephanie Ross,Male,04/09/1985,2021/02/28,Data Scientist,finance,50070.42,On Leave,Needs Improvement,,San Francisco,anthony44@bell-white.com,(797)881-9148,2023-01-03,Lisa Benson
+EMP0029,Zachary Hicks,Male,,2020/08/04,Data Analyst,IT,125505.71,Terminated,good,19.3,Giza,thomascynthia@gmail.com,(807)836-1340x745,2021-11-10,Matthew Patel
+EMP0030,anthony rodriguez,F,04/06/2000,2022/05/08,HR Manager,IT,33923.41,,,,New York,nicholaschavez@wood.com,713-395-9629,2022-04-15,Cole Jones
+EMP0031,Rebecca Henderson,F,25-05-1976,2023/07/13,HR Manager,HR,64640.44,Terminated,Excellent,3.5,Giza,moorekaren@craig.info,(330)958-4982,2021-07-21,brian gibson
+EMP0032,James Ferrell,,10/31/1976,21-11-2022,HR Manager,Engineering,97878.06,On Leave,Poor,13.7,San Francisco,,449-481-2604x22325,,Michael Vasquez
+EMP0033,Tricia Valencia,M,07/11/1978,2024/04/26,Engineer,finance,89437.6,On Leave,Excellent,3.7,Tanta,reeddaniel@gregory.com,672.946.6711,2024-03-30,christian booker
+EMP0034,Nathan Maldonado,Male,09/30/1996,2022/04/10,Software Engineer,ENG,,On Leave,Poor,3.5,Giza,djoyce@harris.com,(845)775-9017x5186,2021-09-12,William Campbell
+EMP0035,Debra Davidson,F,08/13/1982,,Software Engineer,HR,95172.74,Active,Poor,10.3,San Francisco,mark07@hotmail.com,637.454.5892,2021-12-30,jeffrey smith
+EMP0036,Jeffrey Chavez,F,07/02/1999,2022/05/28,Data Analyst,Marketing,95045.21,Active,Good,7.5,New York,davidpatel@gmail.com,001-750-017-0127,2022-01-22,Adrian Robinson
+EMP0037,Sherri Baker,U,21-01-1983,2022/07/16,Software Engineer,finance,121200.5,Terminated,Good,8.6,San Francisco,sandersjudy@yahoo.com,063.242.4154x152,,Richard Jimenez
+EMP0038,Cassandra Gaines,Male,08/22/1970,2024/03/01,Data Scientist,Marketing,56225.03,Active,Poor,11.1,Cairo,umorse@patterson.com,6436110371,2022-04-04,Michael Johnson
+EMP0039,Elizabeth Fowler,M,01/03/1977,2021/04/06,Accountant,finance,118318.64,Active,Needs Improvement,2.6,,usmith@solis.info,(938)700-5162,2021-10-04,Paul Thomas
+EMP0040,Brittany Farmer,U,12/17/1983,2023/10/19,Analyst,finance,59703.79,Terminated,Needs Improvement,11.7,Los Angeles,,,2021-12-13,James Daniels
+EMP0041,Paula Moreno,F,04/13/1979,2024/07/31,Software Engineer,Engineering,33867.65,Active,Good,5.1,Cairo,fosterkyle@yahoo.com,,2021-09-21,Steven Wright
+,Fred Smith,M,05/10/1988,,HR,IT,133463.96,Terminated,Excellent,6.6,Cairo,kimberly18@wilson.com,001-196-565-2341x38999,2022-02-14,Adam Villegas
+EMP0043,Sherry Decker,Male,01/05/1976,2022/12/08,Data Scientist,finance,133834.86,Terminated,average,14.2,Giza,joelthomas@gmail.com,043-898-3640x3761,2023-01-11,Janice Proctor
+EMP0044,Anthony Humphrey,F,05/14/1984,2022/10/29,Data Scientist,Engineering,127426.67,Active,good,3.1,Giza,kathleenrios@bean.info,791.805.5269,2021-04-29,Zachary Gonzalez
+EMP0045,Angelica Tucker,Male,10/05/1964,2024/09/10,HR,ENG,118513.56,Active,good,3.1,Giza,kmaldonado@hotmail.com,(582)710-9104x30068,2020-11-27,Anna Wade
+EMP0046,Philip Cannon,U,02/23/2000,15-08-2024,Accountant,Sales,133325.84,Terminated,Needs Improvement,6.5,New York,edward17@yahoo.com,866-618-8924x1418,2021-01-07,James Ali
+EMP0047,John Pierce,U,,2023/03/17,Analyst,Sales,81380.05,Active,Good,1.0,San Francisco,brittany58@gmail.com,285.691.4630,,Caitlin Chandler
+EMP0048,Shane Henderson,U,06/20/1982,2023/11/15,Data Scientist,IT,124181.92,Terminated,Excellent,18.6,Tanta,dhayes@yahoo.com,161.799.0421,2020-08-31,krista martinez
+EMP0049,Joshua Blair,Female,11/24/1966,2022/09/26,HR,Engineering,126652.86,Active,Excellent,12.3,Giza,newmantiffany@gmail.com,2027588425,2024-03-10,Mr. Isaac Williams
+EMP0050,Eric Carney,Male,07/06/1967,2021/08/09,Data Analyst,ENG,93873.7,On Leave,Needs Improvement,13.2,New York,ycarpenter@hotmail.com,(410)564-8149,2020-01-21,Valerie Young
+EMP0051,Jessica Holmes,U,06/15/2001,2022/01/11,Software Engineer,HR,50205.28,Active,Needs Improvement,9.8,New York,kstout@lopez.com,,2024-08-09,Adrian Bauer
+EMP0052,Danny Morgan,U,09/06/1983,2023/04/04,,finance,65116.16,On Leave,average,11.5,San Francisco,shepherdmary@hotmail.com,+1-138-000-3075x62208,2020-05-11,Jennifer Sanchez
+EMP0053,Crystal Robinson,Male,05/23/1972,2021/12/26,HR,finance,144287.68,Active,Poor,7.2,Tanta,benjaminzimmerman@warren-bishop.com,001-635-365-4195x180,2024-02-07,Lauren Vazquez
+EMP0054,Mark Perez,U,03/15/1997,2023/06/30,Analyst,Engineering,138018.63,Terminated,good,15.7,Cairo,paul59@gmail.com,(380)617-4451,,Brittney Townsend
+EMP0055,shannon jones,Male,10/12/1970,2020/05/15,HR,finance,46270.67,On Leave,good,6.4,Tanta,riveraangela@yahoo.com,+1-705-349-4937,,jonathan parks
+EMP0056,michael lewis,F,08/19/1964,2022/09/15,HR,,79391.55,On Leave,good,4.4,New York,Justin@york.com,(973)832-0603x850,2022-09-06,Wayne Malone
+EMP0057,Timothy Duncan,Male,02/24/1983,2024/01/09,,IT,63278.82,Terminated,Needs Improvement,3.7,New York,aguilardonald@yahoo.com,064-138-3670x24103,2024-03-09,Henry Moore
+EMP0058,Richard Aguirre,Male,28-09-1995,2023/03/30,Engineer,Sales,114171.18,On Leave,average,1.4,Los Angeles,tanderson@gmail.com,,2022-05-03,Ashley Freeman
+EMP0059,Brent Jordan,Female,05/17/1996,2023/04/14,HR Manager,Marketing,47549.21,,Poor,10.1,San Francisco,vschneider@gmail.com,445.655.7431,,justin newman
+EMP0060,John Daniel,F,,2021/04/17,Engineer,Finance,59706.57,Terminated,Good,8.3,Los Angeles,bromero@parker-bean.com,291.212.7756,2024-03-04,Steven Quinn
+EMP0061,Victoria Garcia,Female,12/26/1986,2024/03/18,Engineer,ENG,77124.09,On Leave,Needs Improvement,10.7,New York,jeremytaylor@gmail.com,853-747-4112,2021-07-22,James Ramsey
+EMP0062,Gerald Hensley,U,05/06/1976,2020/04/25,Engineer,Marketing,105888.24,Active,average,1.8,Cairo,romeroamber@hotmail.com,+1-490-352-1356x80442,,Andrew Mann
+EMP0063,Connor West,Male,04/18/1967,,Analyst,Finance,75020.68,On Leave,Needs Improvement,4.4,New York,nancy92@bennett.org,,2022-05-20,Kimberly Henry
+EMP0064,Donald Wright,F,12/24/1980,2024/04/09,,Sales,125351.84,Terminated,Good,4.3,Giza,xwilliams@ball.info,0323651994,2023-05-21,Kimberly Morris
+EMP0065,Jessica Callahan,Female,04/23/1996,2022/10/28,Engineer,HR,78342.09,Active,Good,6.6,Tanta,kylestokes@mckee-lee.org,013-721-5107,2021-11-21,Sean George
+EMP0066,Amber Kidd,Male,07/25/1971,2020/11/07,Data Analyst,IT,113364.43,Active,average,7.2,Tanta,Tracey@hammond-strickland.net,2966706625,2021-02-02,Caitlyn Schmidt
+EMP0067,Tracy House,M,,2023/09/29,Engineer,finance,84563.48,Active,Excellent,,Cairo,lisasolis@gmail.com,28143-xxx,2020-06-17,Robert Weaver
+,carol tucker,Female,,2020/11/05,Accountant,HR,99834.67,Terminated,Good,15.1,Giza,davidsonmorgan@hotmail.com,(447)209-9934,2024-06-21,Ricardo Hunter
+EMP0069,James Brown,F,04/06/1997,2024/06/22,HR,Finance,131660.08,Active,Good,10.6,Cairo,mitchellkathryn@cole-palmer.biz,65390-xxx,2023-08-07,Sonya Harvey
+EMP0070,William Baker,Female,11/03/1968,2023/11/20,Data Analyst,Sales,146658.04,Active,Poor,19.9,Los Angeles,lisawilkerson@perry.net,(870)146-2638x38065,2024-01-26,Manuel Flores
+EMP0071,Jordan Henderson,,06/13/1967,,Data Scientist,Sales,113674.68,Terminated,Good,16.5,Giza,paulmiller@gmail.com,875.985.6420x5930,2024-08-07,Walter Fuentes
+EMP0072,Whitney Peters,Female,02/15/1974,2021/03/23,HR,ENG,125481.35,,Good,19.6,Cairo,sarah52@johnson.com,001-407-859-3213x34803,2020-04-11,Michael Cannon
+EMP0073,Brittney Phillips,U,14-12-1973,2023/06/27,Accountant,Sales,146175.43,On Leave,Poor,,New York,,001-652-239-5590,2024-04-10,Douglas Ortiz
+EMP0074,Lauren Daniels,M,02/06/2002,2021/04/24,HR Manager,Marketing,89365.79,On Leave,Excellent,13.4,San Francisco,marydunn@hotmail.com,001-599-293-7842x701,2022-12-14,brent hopkins
+EMP0075,Amy Silva,F,06/22/1984,2020/08/20,Data Analyst,IT,64031.17,On Leave,good,8.9,Giza,parsonsjohn@gmail.com,7362-xxx,,Todd White
+EMP0076,Sarah Moore,F,08/06/1969,2023/12/29,Software Engineer,HR,45671.31,On Leave,good,18.1,Tanta,robertbauer@brown-copeland.info,930.870.5932,,Brian Lee
+EMP0077,Angela Lopez,F,09/08/1980,2022/04/03,Data Scientist,Sales,124596.44,Terminated,Good,12.3,Tanta,,250-029-2185x15691,2023-05-08,Martin Price
+EMP0078,Megan Young,Male,11/11/1971,2022/11/17,Analyst,Sales,121470.48,On Leave,,12.4,New York,elizabethmiller@yahoo.com,452-267-5289x53926,2021-06-27,
+EMP0079,Steve Sanchez,F,10/10/2001,2023/05/19,Analyst,Finance,20654.49,Terminated,Needs Improvement,19.2,San Francisco,myerstheodore@hughes.com,422-096-9029x5939,2023-11-21,Mitchell Smith
+EMP0080,Lisa Barnes,F,02/14/1992,2020/09/06,Accountant,,31953.76,Terminated,Poor,13.7,Giza,john19@sherman.com,725-135-5215,2021-01-08,Mary Hebert
+EMP0081,Kelly Donovan,M,02/27/1979,2022/10/17,,Sales,48958.02,Active,Poor,6.4,Cairo,epollard@white.info,043.315.4100x676,2024-05-29,julie fowler
+EMP0082,Mike Allen,Male,05/12/1999,2024/07/15,Engineer,Sales,149020.59,Active,Excellent,18.3,Los Angeles,Benjamin@williams.com,(676)586-1793,2023-11-30,Patrick Zamora
+EMP0083,Michael Evans,Male,,2023/03/26,Engineer,finance,149483.29,Active,average,18.9,San Francisco,Leslie@robertson-hays.net,(710)405-4115,,Rebecca Brown
+EMP0084,Paul Jones,Female,06/16/1994,,Accountant,Sales,135857.73,Terminated,Poor,7.7,New York,benjamin34@yahoo.com,22296-xxx,2022-09-07,Kendra Navarro
+EMP0085,Zachary Ferrell,U,12/04/1993,2024/02/25,HR Manager,Marketing,134930.8,On Leave,Needs Improvement,10.8,Cairo,joshua56@paul-kline.biz,(218)159-9706x2962,2020-01-27,Angela Lewis
+EMP0086,Daniel Baker,Male,01/13/1984,,HR,IT,41200.8,On Leave,good,5.7,Cairo,tylerjimenez@hotmail.com,1533688444,2020-02-06,Ashley Hall
+EMP0087,Shirley Suarez,Male,12/24/1992,2020/04/21,HR,finance,39890.46,Terminated,good,18.2,Cairo,acostachristian@hotmail.com,106.987.2050,2021-10-16,Corey Sandoval
+EMP0088,Christopher Bass,M,31-07-1984,2020/07/31,HR,ENG,107869.35,Active,Excellent,16.4,Giza,manuel15@phillips.com,(149)731-0324x17146,2023-03-24,Theresa Hansen
+EMP0089,Lisa Archer,F,30-06-2002,2021/12/30,Data Scientist,Marketing,105072.51,Active,good,7.5,San Francisco,sergio59@yahoo.com,741.862.5652x7047,2020-11-09,Nichole Miranda
+,Aimee Montoya,Male,11/25/1967,2022/06/11,HR,IT,120627.86,Terminated,Excellent,16.1,Cairo,jonesdana@yahoo.com,434.902.1158x693,2022-10-08,Megan Park
+EMP0091,Matthew Mcmillan,Male,07/21/1970,2021/12/07,Software Engineer,IT,40943.9,Active,Poor,8.9,,thomascathy@johnson-jones.com,,2023-01-28,
+EMP0092,Brian Rodriguez,U,12/09/1977,2020/10/07,Data Analyst,Marketing,,Terminated,Excellent,0.9,Giza,cherring@hotmail.com,608-989-9217,2022-03-17,Kathy Sandoval
+EMP0093,Denise Jacobs,M,02/28/1978,2023/09/10,Analyst,ENG,101241.54,,Poor,18.0,New York,xrush@hines-berry.net,(233)206-1632,2021-08-04,Lindsay Mahoney
+EMP0094,Christina Walters,U,10/22/1981,2020/11/01,HR,ENG,83408.03,Terminated,Excellent,3.9,Los Angeles,,+1-451-168-6854x870,2024-08-31,Krista Shea
+EMP0095,John Whitehead,Male,04/28/1969,2020/11/08,Accountant,Finance,13589.35,On Leave,Excellent,10.3,San Francisco,fitzgeraldvictor@mcintyre-wilson.com,001-998-616-2299x911,2022-03-27,Jennifer Schultz
+EMP0096,Anna Henderson,Male,06/27/1974,2023/10/10,,ENG,133240.84,,Poor,19.0,Giza,wendymitchell@yahoo.com,001-148-564-6799,2022-01-06,Erica Allen
+EMP0097,Aaron Wise,M,14-02-1980,2021/05/31,Engineer,Marketing,87324.03,On Leave,Excellent,3.3,New York,taylorcharles@roach.com,62003-xxx,2022-04-17,
+EMP0098,Deborah Figueroa,Female,08/18/1975,2022/07/19,Software Engineer,Sales,40719.73,Terminated,average,19.1,San Francisco,jenna88@yahoo.com,2462996065,2024-01-04,Heather Chavez
+EMP0099,Jessica Smith,Female,05/12/2001,2020/03/30,Software Engineer,Marketing,42384.18,Active,average,10.8,New York,jenniferho@hotmail.com,001-307-450-5444x713,2022-12-01,April Johnson
+EMP0100,Stephen Mckee,Male,11/27/1968,2020/05/22,Data Scientist,Marketing,65910.64,,average,0.1,Los Angeles,william13@young.com,(475)469-1373,2023-02-10,Alan Taylor
+,Sandra Aguilar,Male,06/14/1974,2022/10/04,HR,finance,,Active,Excellent,1.3,Tanta,tanner82@hotmail.com,(785)082-1486x28902,2021-07-25,Abigail Joyce
+EMP0102,Cameron Parker,U,12/25/1963,2020/06/23,HR,HR,106989.14,Active,good,13.4,Los Angeles,parkeryvonne@mendoza.org,,2024-03-29,Ethan Ingram
+EMP0103,Rebecca Valencia,U,08/07/1991,2022/06/30,Data Scientist,Sales,,Active,Needs Improvement,15.5,Giza,teresaday@owens-holmes.com,861.035.7972x798,2023-08-10,Samantha Ellison
+EMP0104,Christine Wright,U,06/16/1994,2023/01/18,Software Engineer,Engineering,103238.31,On Leave,average,17.3,Tanta,ryanbartlett@guerra.com,(524)140-6029x333,2021-10-16,Laura Duncan
+EMP0105,Richard Henson,F,10/11/1995,2023/03/10,Data Analyst,HR,72142.53,Terminated,,8.5,Tanta,fernandodonovan@gmail.com,88826-xxx,2023-07-26,Joe Moore
+EMP0106,Marc Moore,Male,08/15/1983,2023/08/31,Analyst,IT,119792.26,Active,Good,2.1,Cairo,meghan43@hotmail.com,468.007.2290,,Steve Wright
+EMP0107,Sharon Cherry,F,01/08/1966,2021/03/28,HR Manager,finance,103929.12,Terminated,Good,10.8,San Francisco,colleenmendez@gmail.com,494.466.5743,,Eric Duncan
+EMP0108,Sierra Johnson,Female,07/21/1979,2022/01/28,Data Scientist,IT,56069.36,Active,Poor,14.1,Cairo,georgeweber@morgan.com,489.691.0858x994,2023-03-02,Claudia Jones
+EMP0109,Evelyn Galvan,Male,05/28/1983,2024/07/08,Engineer,Engineering,46801.58,Terminated,Poor,19.5,New York,frykelli@curtis-wang.biz,171-545-4443x2830,2023-02-08,John Freeman
+EMP0110,Sharon Cochran,Male,01/15/1983,2023/07/04,Analyst,,117601.1,Terminated,Poor,15.5,Giza,ismall@may-turner.com,+1-652-074-4666x099,2023-05-29,
+EMP0111,Richard Rodriguez,M,12-09-1994,2021/07/13,Engineer,Marketing,81526.65,Terminated,Excellent,12.9,Giza,shawn02@yahoo.com,538.758.4282,2022-05-18,Martin Johnson
+EMP0112,Shannon Walker,Male,08/23/1968,2021/06/12,Software Engineer,Sales,59734.36,Terminated,Needs Improvement,18.8,New York,vmarshall@hotmail.com,172-482-5135x3465,,Jane Deleon
+EMP0113,Julia Torres,Female,09/07/1979,2021/06/27,Analyst,finance,59780.04,On Leave,average,14.9,New York,michelle55@anderson-wood.net,48717-xxx,2023-11-01,Felicia Hobbs
+EMP0114,Crystal Johnson,Male,10/20/1981,2020/09/02,Software Engineer,Sales,116541.56,Terminated,Poor,,Cairo,john14@wright-davis.com,947-170-9991x738,2021-07-12,Timothy Martinez
+EMP0115,Garrett Lin,F,04/05/1977,2023/04/03,Accountant,ENG,142953.51,Active,Excellent,,Los Angeles,kwright@yahoo.com,,2021-02-11,Nicole Atkinson
+EMP0116,Diana May,Male,09/23/1992,2022/01/18,Engineer,Marketing,26176.75,On Leave,Poor,6.6,Giza,kathrynjimenez@hotmail.com,001-725-217-5250,2021-12-11,madison chen
+EMP0117,William Herrera,F,08/11/1971,2024/03/26,Data Scientist,IT,54653.49,On Leave,good,1.8,Cairo,fkoch@gmail.com,7432927129,2020-11-06,Joseph Flores
+EMP0118,Ashley Waller,,09-11-2000,2021/03/20,Data Analyst,ENG,52637.58,Terminated,Needs Improvement,1.1,Cairo,,(666)760-0835x05830,2022-04-18,Erin Wolfe
+EMP0119,Victor Baker,U,02/05/1979,2021/12/22,Analyst,ENG,107540.37,Active,good,,Los Angeles,pharper@hotmail.com,+1-033-542-1689x42104,2022-01-02,Michael Osborn
+EMP0120,Jeffrey Chandler,M,12/09/1973,03-12-2023,HR,ENG,125253.36,Terminated,good,11.2,Los Angeles,amanda16@gmail.com,789-856-2575x3260,2024-09-21,Nicole Johnston
+EMP0121,Larry Dixon,Male,11/16/1981,2022/02/28,Data Scientist,Engineering,76306.27,Terminated,Poor,11.5,Los Angeles,kathryn50@yahoo.com,323.098.2150,2023-09-04,Jeffrey Hartman
+EMP0122,kenneth scott,U,06/24/1973,2023/11/28,Data Analyst,Marketing,106569.88,Terminated,Good,4.6,San Francisco,michaelroberts@gordon-duran.com,(489)090-1001x6761,2023-03-29,George Alvarez
+EMP0123,April Frost,U,08/28/1968,,HR Manager,Engineering,136646.94,Active,average,5.2,Cairo,theresalong@grant-diaz.com,+1-472-304-6184,2021-09-01,Kimberly Baker
+EMP0124,Michelle Harmon,M,11/10/1967,2020/01/30,Data Analyst,Engineering,14027.46,Terminated,Excellent,7.8,San Francisco,cporter@taylor.info,+1-926-189-1411x739,2021-03-29,Jeffrey Wolfe
+,Helen Jones,M,02/03/1975,2023/12/16,Analyst,ENG,76420.59,Active,good,12.6,Tanta,,483.564.2087,2021-04-09,Karen Gonzalez
+EMP0126,Erin Edwards,Male,09/24/1984,12-06-2022,Engineer,Engineering,80503.62,Terminated,Poor,8.7,Tanta,phillipjensen@yahoo.com,753.001.1972,2024-01-09,Kenneth Hoffman
+,Michelle Evans,F,07/14/2002,2024/08/25,Engineer,HR,50732.44,Terminated,good,,Cairo,terickson@yahoo.com,811-437-4470,2020-01-31,Kelly Allen MD
+EMP0128,Jason Powell,Male,06/10/1983,2021/05/05,Engineer,HR,148483.95,Terminated,Excellent,13.5,New York,Lisa@rivera-rodriguez.biz,204-556-1100,2021-07-02,Michael Johnston
+EMP0129,Cameron Fisher,F,09/07/1993,2020/08/17,HR Manager,Finance,100483.62,Terminated,Needs Improvement,10.7,Los Angeles,carlsonjoseph@hotmail.com,(255)794-1552,2023-08-02,Jason Diaz
+EMP0130,Megan Orr,M,04/05/1972,04-10-2023,Accountant,HR,10393.57,Active,,12.8,,silvageorge@griffith.com,667-467-6212,2024-04-01,gregory rios
+EMP0131,Elizabeth Kelley,Female,09/11/1995,2022/12/09,Analyst,HR,143841.6,Terminated,Excellent,12.4,Tanta,leescott@hernandez-vaughn.biz,001-021-697-9729x659,,Caroline Bailey
+EMP0132,Dustin Jordan,Male,06/29/1984,2022/07/18,Software Engineer,finance,64378.54,On Leave,average,15.1,Cairo,Warren@knapp.com,2771670145,2024-05-25,Rebekah Hanson
+EMP0133,Mary Marshall,Female,03/11/1991,2023/08/11,Software Engineer,,122053.2,Active,Good,11.7,New York,annbolton@fox-edwards.com,,2024-07-17,Thomas Hall
+EMP0134,Daniel Kennedy,F,29-04-1982,2022/02/16,Software Engineer,Sales,78273.29,Active,good,14.0,Cairo,amy49@yahoo.com,+1-375-628-9002x87721,2022-09-07,Brittney Chandler
+EMP0135,Rebecca Jackson,Male,11/09/1997,2023/11/20,HR Manager,Finance,94518.64,On Leave,Good,1.5,New York,joshuaevans@wise-bush.info,001-753-540-8386x63177,2024-02-20,Patrick Sanchez
+EMP0136,Jose Schultz,Female,18-07-2000,2022/07/27,Engineer,Engineering,40031.65,On Leave,Needs Improvement,18.6,Cairo,ybailey@hotmail.com,001-717-751-7016,2022-07-21,Brittany Wall
+EMP0137,Robert Potter,Female,05/27/1997,2021/09/10,HR,HR,140510.98,Active,good,2.1,Los Angeles,,(088)019-9488x37550,2022-02-18,Greg Brock
+EMP0138,Courtney Gonzalez,Male,08/03/1993,2023/04/10,HR,Sales,48645.26,Active,Good,15.7,Los Angeles,kellyroberts@hotmail.com,758.997.5711,2024-10-12,John Rivera
+EMP0139,David Alvarez,Female,04/10/1969,,HR Manager,ENG,100372.46,On Leave,Needs Improvement,6.0,New York,sandra47@harris.com,,2020-05-28,Christy Payne
+EMP0140,Angel Perry,Male,07/06/1966,2020/11/27,HR Manager,Marketing,,Terminated,Poor,1.7,Cairo,danielyang@gmail.com,933-163-7351x609,2023-05-22,
+EMP0141,Cheyenne Horton,Female,03/14/1993,2022/01/06,Engineer,HR,67220.34,On Leave,average,15.3,,,779-827-0808,2020-11-03,Melissa Barnett MD
+EMP0142,David Douglas Jr.,M,09/25/1985,2023/03/30,Engineer,ENG,144411.36,Terminated,Needs Improvement,8.8,Cairo,adampierce@russell.info,(978)292-2169x95866,2021-05-22,Kelsey Scott
+EMP0143,Patricia Rodriguez,Male,11/01/1980,2023/01/20,HR Manager,ENG,,On Leave,Good,7.9,Cairo,manuel01@andrews.com,+1-346-547-2269x848,2020-07-05,Curtis Horton
+EMP0144,Christopher Rubio,M,07/23/1965,2022/07/08,Analyst,HR,43918.39,Active,Excellent,13.2,Los Angeles,lkhan@osborn.info,833-394-5228x85158,2021-10-31,John Landry
+EMP0145,Amber Wright,U,05-01-1970,2022/07/06,Data Scientist,HR,36603.43,,good,9.5,Giza,nancy04@morrison.info,996.846.0810x6200,,Matthew Alvarado
+EMP0146,Joyce Solis,M,05/18/1979,09-03-2020,Engineer,finance,108966.28,Active,average,10.7,Tanta,melissamcdonald@gmail.com,424.420.4380,2022-03-01,heather rodriguez
+EMP0147,victoria larson,Female,03/18/1965,2023/05/14,HR,HR,31519.8,Terminated,Good,2.7,Tanta,francisco74@lopez.org,(719)838-6384x066,,Stephen Hughes
+EMP0148,Stephanie Salazar,F,02/20/1982,2022/05/02,Data Scientist,HR,31362.07,On Leave,Poor,7.8,Cairo,cherylfowler@wilcox-robertson.com,(580)043-9735x98933,2024-01-20,katie mckinney
+EMP0149,Kathy Rivas,M,07/15/1966,2020/01/26,HR,IT,71604.62,Terminated,average,15.9,Tanta,lopezdonald@yahoo.com,721-228-1606x4842,2020-10-26,Kari Harper
+EMP0150,Stephanie Manning,,09/21/1975,2020/06/01,Software Engineer,IT,128700.82,On Leave,Needs Improvement,10.9,San Francisco,greenjoe@finley-turner.org,(940)572-0259,,Cristian Rasmussen
+EMP0151,david wright,M,10/26/1995,2024/03/23,Engineer,HR,74624.33,On Leave,Good,19.2,Los Angeles,,9479851583,,michelle williams
+EMP0152,Pamela Boyd,F,02/11/1999,2022/06/08,Engineer,finance,134815.21,Terminated,Excellent,2.9,Tanta,fowlershelia@yahoo.com,(818)268-8615,2022-11-05,Elizabeth Burns
+EMP0153,Denise Jones,F,11/22/1993,2021/12/15,Data Analyst,Engineering,44166.81,On Leave,Excellent,13.5,Giza,susanmendoza@adkins-obrien.biz,355.543.9878,2022-03-18,Alicia Sutton
+EMP0154,Devon Flores,M,09/23/1982,2022/12/30,Analyst,Finance,70201.32,Active,Poor,18.3,Tanta,,,2023-01-26,Eric Ferrell
+EMP0155,brenda hall,U,02/24/1976,2021/11/11,Data Scientist,Finance,92862.51,Terminated,Excellent,15.9,,xrice@stark.com,001-408-588-7704x3581,,Desiree Brown
+EMP0156,Michelle Brown,F,06/17/1993,2021/08/13,,Engineering,147006.07,Terminated,Excellent,14.6,New York,franklinbond@wilson-harris.org,288-013-3613,2023-01-24,James Cooke
+EMP0157,joshua perry,F,05-04-1997,2022/02/17,HR,Sales,89537.71,Active,good,7.5,Tanta,nolansean@gmail.com,+1-612-075-0110,2024-10-06,Terry Avery MD
+EMP0158,Jason Stein,F,01/03/1970,2021/02/28,,Sales,36652.69,Terminated,Poor,,New York,williambryant@gmail.com,(481)934-6676,2024-09-28,James Taylor
+EMP0159,Melissa Gates,Male,,2020/10/28,Accountant,IT,50025.77,On Leave,average,11.1,Los Angeles,jennifer64@gmail.com,(506)180-9190x15814,2022-03-11,kelly gregory
+EMP0160,Jamie Smith,M,06/24/1987,2020/05/02,Software Engineer,Marketing,122799.47,Active,Good,11.1,New York,williamsmelvin@weaver.com,+1-491-476-6072x83268,2022-12-05,Melissa Butler
+EMP0161,Paul Castaneda,U,08/03/1991,2022/08/17,HR,IT,110894.45,On Leave,Excellent,2.5,Tanta,,245-088-2100x9968,2020-03-02,Jessica Edwards
+EMP0162,Jennifer Adkins,,06/25/1986,2023/10/01,HR Manager,finance,118893.6,On Leave,good,0.1,Giza,victoria67@yahoo.com,+1-143-536-8222,2023-07-03,Joann Anderson
+EMP0163,Lindsey Walker,Male,08/24/1985,2020/04/13,Analyst,Finance,26467.23,On Leave,Excellent,11.9,San Francisco,vegadorothy@hotmail.com,943.129.0878,2021-01-11,Lauren Sutton
+EMP0164,Jeffrey Johnson,Female,12/01/1970,2023/02/07,HR Manager,Marketing,6149.54,On Leave,Poor,10.7,Giza,david86@anderson.com,414-139-7552,2022-12-26,Charles Barker
+EMP0165,Michael Powell,Female,09/29/1974,2021/02/12,Accountant,finance,140427.19,On Leave,Poor,18.9,Giza,inunez@yahoo.com,+1-314-913-5775x94929,2021-09-10,susan jordan
+EMP0166,John Anderson,F,03/30/1986,2020/10/07,Software Engineer,ENG,145241.06,On Leave,Excellent,6.1,San Francisco,johnreed@yahoo.com,001-556-205-3364,,Patricia Douglas
+EMP0167,Alyssa Long,U,,2022/07/05,Data Analyst,Sales,25077.89,Active,Needs Improvement,15.0,Los Angeles,,(257)775-4781x291,2024-07-30,Brooke Jones
+EMP0168,Alyssa Day,U,07/07/1997,2022/10/12,Accountant,Sales,108684.4,Active,Poor,18.1,Tanta,wheelersean@warner.biz,36780-xxx,2021-06-26,Michelle White
+EMP0169,Joel Williams,M,31-05-1983,2023/07/14,Software Engineer,IT,59791.58,Terminated,Good,6.9,Los Angeles,amberwebster@gmail.com,(834)110-8099,2022-06-03,Brianna Johnson
+EMP0170,Daniel Murphy,F,01/19/1991,2021/06/29,HR,Finance,68392.22,Active,average,8.3,Cairo,jim95@harper.com,(930)848-8725x6394,2023-01-08,William Ali
+EMP0171,Jamie Walton,Female,26-03-2001,2021/09/15,Engineer,HR,98584.32,Active,Needs Improvement,,Cairo,roberthill@fry.biz,(788)165-8039,,patrick underwood
+EMP0172,Darlene Miller,M,04/19/1966,2021/02/14,Analyst,Finance,110799.09,Active,Needs Improvement,10.3,New York,comptonshelly@hotmail.com,+1-282-722-9927x50373,,Nancy Hernandez
+EMP0173,Joshua Cooke,U,,2024/08/02,HR Manager,finance,56782.21,Active,average,3.2,Giza,heather62@yahoo.com,453-038-5677,2024-05-04,Carlos Johnson
+EMP0174,Matthew Harrington,M,10/16/1969,2023/02/10,Analyst,finance,35511.43,Active,Excellent,4.4,Los Angeles,karenwells@gmail.com,6086-xxx,,Miss Lisa Salazar
+EMP0175,Nicole Herring,Female,03/15/1985,2024/07/07,Accountant,finance,135238.95,Active,Excellent,16.7,San Francisco,lindamelendez@hotmail.com,5184498926,,Crystal Johnson
+EMP0176,Alex Hernandez,U,12/22/1980,2024/04/08,Analyst,ENG,122823.3,Terminated,Good,3.9,Los Angeles,igrant@yahoo.com,+1-659-184-6386x5577,2023-10-20,Richard Anderson
+EMP0177,Michael Elliott,Male,10/19/1985,2022/04/26,HR,HR,40366.26,Active,Excellent,3.6,New York,james17@davis-hardy.com,+1-082-723-1843x222,2020-08-31,Julie Banks
+EMP0178,Michael Wang,Male,09/09/1971,2021/05/26,Software Engineer,,74270.32,On Leave,Needs Improvement,16.0,Tanta,Brett@nunez-morrison.com,(913)651-7773x926,2023-03-29,James Wells
+EMP0179,Lawrence Adkins,F,04/21/1991,2022/03/09,HR Manager,Engineering,124140.87,Terminated,Needs Improvement,17.0,Giza,timothybooth@turner-stout.com,3029922809,,Darrell Ortiz
+EMP0180,Robert Oconnell,M,26-10-1998,06-02-2024,Accountant,,59110.08,Active,Poor,17.0,Giza,burgesskaren@dominguez.com,(024)286-9904,2022-06-09,Tammy Clements
+EMP0181,Alexander Collins,U,11/17/1963,05-07-2022,Engineer,ENG,146622.93,On Leave,Needs Improvement,18.6,,,11239-xxx,2023-12-11,michael harris
+EMP0182,Tina Sanders,F,21-09-2000,2022/11/18,HR,finance,,Active,average,19.9,New York,kyle58@yahoo.com,797.723.6929,2021-03-26,Christopher Blevins
+EMP0183,Angela Vaughn,M,03/28/1995,2020/12/23,Analyst,Marketing,95587.11,On Leave,Poor,9.2,Cairo,langjennifer@yahoo.com,001-298-425-7991x36621,2021-06-04,Luis Watts
+EMP0184,Ashley Barton,Female,12/03/1991,2023/12/26,Engineer,Finance,48067.97,Terminated,Excellent,11.0,San Francisco,lawrence09@figueroa.com,2170-xxx,2022-11-14,stacy patterson
+EMP0185,Lindsay Martinez,U,28-06-1967,2020/08/21,HR Manager,HR,32869.23,Terminated,,5.8,Tanta,elijah53@yahoo.com,886.291.2799,,Lisa Holloway
+EMP0186,Dr. Hannah Patterson,M,25-07-1976,13-03-2021,HR,Sales,106313.02,On Leave,Excellent,1.3,,rpierce@scott-underwood.info,8811729806,,Jennifer Crosby
+EMP0187,Jonathan Peterson,U,01/29/1999,2021/12/01,Engineer,Sales,31151.38,Active,Excellent,2.0,Los Angeles,jessicabell@gmail.com,650.863.7659x91624,2023-06-11,Kimberly Davidson
+EMP0188,Samantha Garcia,M,06/02/1988,2023/05/19,Engineer,ENG,121071.5,Active,Good,14.5,San Francisco,sabrinaweaver@hotmail.com,314.986.4300x9818,2020-08-09,Amanda Rodriguez
+EMP0189,Madison Poole,Female,09/21/1997,2024/09/27,Data Scientist,IT,118569.92,Terminated,Poor,9.7,Cairo,combscharles@williams.com,6356512694,2020-09-02,Shawn Rich
+EMP0190,Jessica Gross,U,11/17/1993,,HR,HR,54623.32,On Leave,Poor,6.6,,albertwagner@brown-little.org,34249-xxx,,Joshua Terrell
+EMP0191,Debra Morton,Male,04/24/1967,2020/10/07,Accountant,Finance,80377.9,Terminated,Good,2.6,San Francisco,ismith@hotmail.com,+1-695-946-3688,2022-12-03,
+EMP0192,Karen Graham,Female,08/26/1977,2023/05/10,Accountant,IT,146707.11,On Leave,Needs Improvement,13.1,Giza,smithjennifer@hotmail.com,258.874.4956x2137,2021-12-10,Cheryl Gonzales
+EMP0193,Debra Christian,M,12/21/1981,2020/02/13,Data Scientist,HR,63579.03,Terminated,Needs Improvement,2.0,Giza,shawheidi@yahoo.com,001-213-865-8902x601,2022-08-31,Patricia Mitchell
+EMP0194,Angelica Keith,U,03/04/2001,2022/04/01,Data Scientist,Engineering,10786.81,Terminated,average,,,hullalice@lee.com,(796)114-3519,,edward ellison
+EMP0195,John Bishop,Female,09/18/1972,2024/07/25,Accountant,Marketing,79566.82,On Leave,good,18.0,Tanta,laura15@yahoo.com,6698490277,2022-06-24,Stephanie Ford
+EMP0196,Allen Rosales,M,05/27/1983,2021/01/18,Data Scientist,HR,85014.96,Terminated,Needs Improvement,6.4,Giza,veronicaperez@hotmail.com,3843098839,2022-04-11,Ann Mason
+EMP0197,Daniel Salinas,Male,12-08-1993,2023/11/13,Data Scientist,Sales,99692.48,Active,,9.0,San Francisco,davisnicholas@alvarez.com,(053)021-4656,2023-05-13,
+EMP0198,Spencer Haynes,Male,10/13/1996,2023/02/19,Accountant,Engineering,106465.88,On Leave,Excellent,12.3,San Francisco,,(938)011-8489x5543,2022-04-22,
+EMP0199,Adam Vaughan,M,,2022/03/25,HR,finance,101027.49,On Leave,Needs Improvement,6.1,Giza,hallrachel@clay.com,+1-376-904-2681x818,,Jesse Mosley
+EMP0200,Nathan Freeman,Male,10/06/1965,29-03-2023,Engineer,,109493.27,On Leave,Needs Improvement,11.7,San Francisco,whitemelissa@gmail.com,518-489-4769x7357,2023-10-14,Sonya Davis
